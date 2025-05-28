@@ -50,15 +50,21 @@ Installation:
 1.Backend setup:
 
 cd server
+
 cp .env.example .env
+
 npm install
+
 npm start
 
 2.Frontend setup:
 
 cd ../client
+
 cp .env.example .env
+
 npm install
+
 npm start
 
 📐 Architecture Diagram
