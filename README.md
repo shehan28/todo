@@ -77,11 +77,11 @@ This diagram shows how the React frontend interacts with the Express backend and
 
 ## 🔐 Login Page Screenshot
 
-![Login Screenshot](./images/Login-screenshot-1.png)
+![Login Screenshot](./images/images/Login-screenshot-1.png)
 
 ## ✅ Task View Screenshot
 
-![Task Screenshot](./images/Task-screenshot-1.png)
+![Task Screenshot](./images/images/Task-screenshot-1.png)
 
 
 
