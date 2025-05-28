@@ -77,6 +77,7 @@ This diagram shows how the React frontend interacts with the Express backend and
 
 ## 🔐 Login Page Screenshot
 
+
 ![Login Screenshot](./images/images/Login-screenshot-1.png)
 
 ## ✅ Task View Screenshot
